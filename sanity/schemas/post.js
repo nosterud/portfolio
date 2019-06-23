@@ -46,7 +46,12 @@ export default {
       name: 'body',
       title: 'Body',
       type: 'blockContent'
-    }
+    },
+    {
+      name: 'banner',
+      title: 'Banner',
+      type: 'bannerImg'
+    },
   ],
 
   preview: {

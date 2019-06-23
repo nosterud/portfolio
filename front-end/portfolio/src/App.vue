@@ -6,14 +6,12 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 import BannerImage from './components/BannerImg'
 import StandardPage from './pages/StandardPage'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld,
     StandardPage,
     BannerImage
   }

@@ -13,7 +13,7 @@ export default {
   name: 'app',
   components: {
     StandardPage,
-    BannerImage
+    // BannerImage
   }
 }
 </script>

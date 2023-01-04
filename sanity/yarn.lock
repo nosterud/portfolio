@@ -746,16 +746,16 @@
     rxjs "^6.1.0"
     scroll "^2.0.0"
 
-"@sanity/core@^0.140.36":
-  version "0.140.36"
-  resolved "https://registry.npmjs.org/@sanity/core/-/core-0.140.36.tgz#5c4cc8d3400ff8fd7b7a7a970d4a096c65e351c8"
+"@sanity/core@^0.140.38":
+  version "0.140.38"
+  resolved "https://registry.yarnpkg.com/@sanity/core/-/core-0.140.38.tgz#0cfdd60fa8f278a233be0c8d38ce0818f5611903"
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.0.0"
     "@babel/preset-env" "^7.1.0"
     "@babel/preset-react" "^7.0.0"
     "@babel/register" "^7.0.0"
     "@sanity/check" "0.140.34"
-    "@sanity/export" "0.140.36"
+    "@sanity/export" "0.140.38"
     "@sanity/generate-help-url" "0.140.0"
     "@sanity/import" "0.140.36"
     "@sanity/mutator" "0.140.30"
@@ -890,9 +890,9 @@
     eventsource "^1.0.6"
     eventsource-polyfill "^0.9.6"
 
-"@sanity/export@0.140.36":
-  version "0.140.36"
-  resolved "https://registry.npmjs.org/@sanity/export/-/export-0.140.36.tgz#85bff1575c78dd167bbd08ead839076dffdf2a05"
+"@sanity/export@0.140.38":
+  version "0.140.38"
+  resolved "https://registry.yarnpkg.com/@sanity/export/-/export-0.140.38.tgz#7c5564488b928ccf54f9e88a849f5e0e78934d5e"
   dependencies:
     archiver "^2.1.1"
     debug "^3.1.0"
